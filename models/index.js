@@ -8,4 +8,5 @@ db.on("connected", function () {
 });
 module.exports = {
   Client: require("./Clients.js"),
+  Product: require("./Products.js"),
 };
