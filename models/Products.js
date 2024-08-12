@@ -5,6 +5,7 @@ const productsSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  lang: { type: String, require: true },
   image: { type: [String], required: true },
   productCode: {
     type: Number,
@@ -30,6 +31,7 @@ const productsSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  subCategory: { type: String, required: true },
   availabileSize: {
     type: [String],
     required: true,
