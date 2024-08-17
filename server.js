@@ -80,7 +80,7 @@ app.use((req, res, next) => {
   if (!req.session.cart) {
     req.session.cart = [];
   }
-  console.log(req.session.favorite, 555);
+  // console.log(req.session.favorite, 555);
   if (!req.session.favorite) {
     req.session.favorite = [];
   }
