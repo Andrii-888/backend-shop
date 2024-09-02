@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+// create session in mongust
 const sessionSchema = new mongoose.Schema({
   sessionId: { type: String, required: true, unique: true },
   cart: [

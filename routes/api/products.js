@@ -15,13 +15,21 @@ const deeplTranslater = async (arrText, lang) => {
 router.get("/", async (request, response) => {
   try {
     const { lang, category } = request.query;
-    
-    const categoryRegex = new RegExp(category, "i");
-    const products = await db.Product.find({
+
+    // Если категория не указана, не используем фильтр по категории
+    const filter = {
       lang: lang,
-      subCategory: { $regex: categoryRegex },
-    });
+    };
+
+    if (category) {
+     
+      const categoryRegex = new RegExp(category, "i");
+      filter.subCategory = { $regex: categoryRegex };
+    }
+    
+    const products = await db.Product.find(filter);
    
+
     // if (lang !== "en") {
     //   const productsForTranslation = await Promise.all(
     //     products.map(
