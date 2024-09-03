@@ -9,6 +9,7 @@ const crypto = require("crypto"); // Для генерации уникальн�
 
 // const MongoStore = require("connect-mongo");
 const db = require("./models");
+const seedData = require("./models/sead");
 
 require("dotenv").config();
 
@@ -21,6 +22,8 @@ app.use(express.json());
 app.use(cors({ origin: "http://localhost:3000", credentials: true }));
 app.use(morgan("tiny"));
 app.use(routes);
+
+// seedData();
 
 // Функция для генерации уникального идентификатора сессии
 function generateSessionId() {
@@ -90,6 +93,13 @@ function generateUserId() {
   return Math.random().toString(36).substring(2, 15);
 }
 
-app.listen(PORT, function () {
-  console.log(`app listen on port ${PORT}`);
+// app.listen(PORT, function () {
+//   console.log(`app listen on port ${PORT}`);
+// });
+
+// Засев данных в базу перед началом работы сервера
+seedData().then(() => {
+  app.listen(PORT, function () {
+    console.log(`app listen on port ${PORT}`);
+  });
 });
