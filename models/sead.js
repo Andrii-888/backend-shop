@@ -1,11 +1,10 @@
+require("dotenv").config();
 const { MongoClient } = require("mongodb");
 
 async function seedData() {
   const uri = process.env.DATABASE_URL; // Замените на вашу строку подключения MongoDB
-  const client = new MongoClient(uri, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  });
+  console.log(uri);
+  const client = new MongoClient(uri);
 
   try {
     await client.connect();
@@ -1577,4 +1576,5 @@ async function seedData() {
     await client.close();
   }
 }
-module.exports = seedData;
+
+seedData();

@@ -9,7 +9,7 @@ const crypto = require("crypto"); // Для генерации уникальн�
 
 // const MongoStore = require("connect-mongo");
 const db = require("./models");
-const seedData = require("./models/sead");
+// const seedData = require("./models/sead");
 
 require("dotenv").config();
 
@@ -98,8 +98,8 @@ function generateUserId() {
 // });
 
 // Засев данных в базу перед началом работы сервера
-seedData().then(() => {
-  app.listen(PORT, function () {
-    console.log(`app listen on port ${PORT}`);
-  });
+// seedData().then(() => {
+app.listen(PORT, function () {
+  console.log(`app listen on port ${PORT}`);
 });
+// });
