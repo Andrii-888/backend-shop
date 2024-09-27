@@ -1,0 +1,340 @@
+[
+  {
+    "title": "ColoreBianco",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000048459.webp"],
+    "productCode": 1000048459,
+    "subCategory": "for-hotels",
+    "price": 212,
+    "description": [
+      "100% Cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 240x260 cm",
+      "Federa voluminosa: 50x70 cm",
+      "Federa standard, 2 pz: 50x70 cm",
+      "Copriletto, 2 pz.: 230x250 cm"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["doppio"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "doppio",
+        "title": "Doppio",
+        "price": "212",
+        "color": ["bianco"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreBianco",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000048456.webp"],
+    "productCode": 1000048456,
+    "subCategory": "for-hotels",
+    "price": 212,
+    "description": [
+      "100% Cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 240x260 cm",
+      "Federa voluminosa: 50x70 cm",
+      "Federa standard, 2 pz: 50x70 cm",
+      "Copriletto, 2 pz.: 230x250 cm"
+    ],
+    "rating": { "rate": 4.6, "feedBackCount": 212 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["doppio"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "doppio",
+        "title": "Doppio",
+        "price": "212",
+        "color": ["bianco"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreBianco",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000048480.webp"],
+    "productCode": 1000048480,
+    "subCategory": "for-hotels",
+    "price": 186,
+    "description": [
+      "100% Cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 240x260 cm",
+      "Federa voluminosa: 50x70 cm",
+      "Federa standard, 2 pz: 50x70 cm",
+      "Copriletto, 2 pz.: 230x250 cm"
+    ],
+    "rating": { "rate": 4.2, "feedBackCount": 186 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["doppio"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "doppio",
+        "title": "Doppio",
+        "price": "186",
+        "color": ["bianco"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreBianco",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000047223.webp"],
+    "productCode": 1000047223,
+    "subCategory": "for-hotels",
+    "price": 57,
+    "description": [
+      "100% Cotone",
+      "Piquet: 180x250 cm",
+      "Incluso: 100x200 cm",
+      "Federa standard: 50x70 cm, 1 pz"
+    ],
+    "rating": { "rate": 4.2, "feedBackCount": 57 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["doppio"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "singolo",
+        "title": "Singolo",
+        "price": "57",
+        "color": ["bianco"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreCrema",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000046186.webp"],
+    "productCode": 1000046186,
+    "subCategory": "for-hotels",
+    "price": 173,
+    "description": [
+      "100% Cotone",
+      "Copripiumino con pizzo: 200x220 cm",
+      "Lenzuolo: 240x260 cm",
+      "Federa con pizzo: 50x70 cm, 2 pz",
+      "Federa con frange e bordino: 50x70 cm, 2 pz"
+    ],
+    "rating": { "rate": 5, "feedBackCount": 173 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["singolo"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "singolo",
+        "title": "Singolo",
+        "price": "173",
+        "color": ["bianco"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreGrigio",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000046023.webp"],
+    "productCode": 1000046023,
+    "subCategory": "for-hotels",
+    "price": 75,
+    "description": [
+      "100% Cotone",
+      "Copripiumino: 160x220 cm",
+      "Lenzuolo: 180x260 cm",
+      "Federa con frange: 50x70 cm, 1 pz"
+    ],
+    "rating": { "rate": 4.4, "feedBackCount": 75 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["singolo"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "singolo",
+        "title": "Singolo",
+        "price": "75",
+        "color": ["grigio"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreBlu",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000045412004.webp"],
+    "productCode": 1000045412004,
+    "subCategory": "for-hotels",
+    "price": 105,
+    "description": [
+      "100% Cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 230x260 cm",
+      "Federa con frange: 50x70 cm, 2 pz."
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 105 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["doppio"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "doppio",
+        "title": "Doppio",
+        "price": "105",
+        "color": ["blu"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreBrezza",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000038751011.webp"],
+    "productCode": 1000038751011,
+    "subCategory": "for-hotels",
+    "price": 43,
+    "description": [
+      "100% Cotone",
+      "Copripiumino: 160x220 cm",
+      "Lenzuolo: 180x260 cm",
+      "Federa con cordoncino: 50x70 cm, 1 pz"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 43 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["singolo"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "singolo",
+        "title": "Singolo",
+        "price": "43",
+        "color": ["brezza"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreBianco",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000039307002.webp"],
+    "productCode": 1000039307002,
+    "subCategory": "per-hotels",
+    "price": 110,
+    "description": [
+      "100% Cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 240x260 cm",
+      "Federe con nastri: 50x70 cm, 2 pz",
+      "Federe con volant: 50x70 cm, 2 pz"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 110 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["doppio"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "doppio",
+        "title": "Doppio",
+        "price": "110",
+        "color": ["bianco"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreGiallo",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000001135.webp"],
+    "productCode": 1000001135,
+    "subCategory": "per-hotels",
+    "price": 17,
+    "description": ["100% Cotone", "Lenzuolo: PVC 240x260 cm"],
+    "rating": { "rate": 4.8, "feedBackCount": 17 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["doppio"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "doppio",
+        "title": "Doppio",
+        "price": "17",
+        "color": ["giallo"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreBlu",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000047659.webp"],
+    "productCode": 1000047659,
+    "subCategory": "per-hotels",
+    "price": 63,
+    "description": [
+      "100% Cotone",
+      "Copripiumino: 200x200 cm",
+      "Federa: 80x80 cm, 2 pz"
+    ],
+    "rating": { "rate": 4.5, "feedBackCount": 63 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["doppio"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "doppio",
+        "title": "Doppio",
+        "price": "63",
+        "color": ["blu"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreBianco",
+    "lang": "it",
+    "image": ["/img/productsImageHotels/1000046902.webp"],
+    "productCode": 1000046902,
+    "subCategory": "per-hotels",
+    "price": 64,
+    "description": [
+      "100% Cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 240x260 cm",
+      "Federa con cordoncino: 50x70 cm, 2 pz"
+    ],
+    "rating": { "rate": 4.1, "feedBackCount": 64 },
+    "material": "cotone",
+    "category": "Tessile per hotel",
+    "availabileSize": ["doppio"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "doppio",
+        "title": "Doppio",
+        "price": "64",
+        "color": ["bianco"],
+        "availability": 0
+      }
+    }
+  }
+]

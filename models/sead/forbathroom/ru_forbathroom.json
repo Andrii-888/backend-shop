@@ -1,0 +1,304 @@
+[
+  {
+    "title": "CreamColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500214895.webp"],
+    "productCode": 1500214895,
+    "subCategory": "for-bathroom",
+    "price": 20,
+    "description": [
+      "100% Cotton",
+      "Bath towel: 90x150 cm, 1 pc",
+      "90x150 cm, in a PP bag"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 20 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "20",
+        "color": ["cream"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "PowderColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500214754.webp"],
+    "productCode": 1500214754,
+    "subCategory": "for-bathroom",
+    "price": 27,
+    "description": [
+      "100% Cotton",
+      "Set of mats 60x100 cm 1 pc",
+      "50x60 CM 1 шт"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 27 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "27",
+        "color": ["powder"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "SkyColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500217928.webp"],
+    "productCode": 1500217928,
+    "subCategory": "for-bathroom",
+    "price": 148,
+    "description": [
+      "100% Cotton",
+      "Family set",
+      "Men's bathrobe",
+      "Women's bathrobe",
+      "Bath towels, set of 4"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "148",
+        "color": ["sky"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "AnthraciteColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500214900.webp"],
+    "productCode": 1500214900,
+    "subCategory": "for-bathroom",
+    "price": 57,
+    "description": ["100% Cotton", "Women's bathrobe", "Bath towels, set of 2"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "57",
+        "color": ["anthracite"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "PinkColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500214900.webp"],
+    "productCode": 1500214900,
+    "subCategory": "for-bathroom",
+    "price": 57,
+    "description": ["100% Cotton", "Women's bathrobe", "Bath towels, set of 2"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "57",
+        "color": ["anthracite"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "AnthraciteColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500217925002.webp"],
+    "productCode": 1500217925002,
+    "subCategory": "for-bathroom",
+    "price": 148,
+    "description": [
+      "100% Cotton",
+      "Family set",
+      "Men's bathrobe",
+      "Women's bathrobe",
+      "Bath towels, set of 4"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "148",
+        "color": ["sky"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "MultiColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500217912002.webp"],
+    "productCode": 1500217912002,
+    "subCategory": "for-bathroom",
+    "price": 48,
+    "description": ["100% Cotton", "Women's bathrobe"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "48",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "MintColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500217912002.webp"],
+    "productCode": 1500217912002,
+    "subCategory": "for-bathroom",
+    "price": 48,
+    "description": ["100% Cotton", "Women's bathrobe"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "48",
+        "color": ["mint"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "LavenderColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500201668001.webp"],
+    "productCode": 1500201668001,
+    "subCategory": "for-bathroom",
+    "price": 130,
+    "description": [
+      "100% Cotton",
+      "Family set",
+      "Men's bathrobe",
+      "Women's bathrobe",
+      "Bath towels, set of 4"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "130",
+        "color": ["lavender"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "GreyColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500215665.webp"],
+    "productCode": 1500215665,
+    "subCategory": "for-bathroom",
+    "price": 50,
+    "description": ["100% Cotton", "Women's bathrobe"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "50",
+        "color": ["mint"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "MultiColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500216663.webp"],
+    "productCode": 1500216663,
+    "subCategory": "for-bathroom",
+    "price": 43,
+    "description": ["100% Cotton", "Women's bathrobe"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "43",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CreamColor",
+    "lang": "ru",
+    "image": ["/img/productsImageBathroom/1500215673.webp"],
+    "productCode": 1500215673,
+    "subCategory": "for-bathroom",
+    "price": 107,
+    "description": ["100% Cotton", "Women's bathrobe"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "43",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  }
+]

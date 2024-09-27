@@ -1,0 +1,278 @@
+[
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000045292.webp"],
+    "productCode": 1000045292,
+    "subCategory": "for-kids",
+    "price": 34,
+    "description": ["100% Cotton", "Children's bedding set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Kids textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "34",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000037697.webp"],
+    "productCode": 1000037697,
+    "subCategory": "for-kids",
+    "price": 67,
+    "description": ["100% Cotton", "Children's bedding set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Kids textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "67",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000044771.webp"],
+    "productCode": 1000044771,
+    "subCategory": "for-kids",
+    "price": 33,
+    "description": ["100% Cotton", "Children's bedding set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Kids textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "33",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000044775.webp"],
+    "productCode": 1000044775,
+    "subCategory": "for-kids",
+    "price": 33,
+    "description": ["100% Cotton", "Children's bedding set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Kids textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "33",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000039750.webp"],
+    "productCode": 1000039750,
+    "subCategory": "for-kids",
+    "price": 34,
+    "description": ["100% Cotton", "Children's bedding set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Kids textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "34",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000013326.webp"],
+    "productCode": 1000013326,
+    "subCategory": "for-kids",
+    "price": 67,
+    "description": ["100% Cotton", "Children's bedding set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Kids textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "67",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000039754.webp"],
+    "productCode": 1000039754,
+    "subCategory": "for-kids",
+    "price": 35,
+    "description": ["100% Cotton", "Children's bedding set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Kids textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "35",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1500066498.jpeg"],
+    "productCode": 1500066498,
+    "subCategory": "for-kids",
+    "price": 39,
+    "description": ["100% Cotton", "Children's bedding set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Kids textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "39",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000012473.webp"],
+    "productCode": 1000012473,
+    "subCategory": "for-kids",
+    "price": 33,
+    "description": ["100% Baumwolle", "Kinderbettwäsche-Set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "Baumwolle",
+    "category": "Kindertextilien",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "33",
+        "color": ["mehrfarbig"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000013324.webp"],
+    "productCode": 1000013324,
+    "subCategory": "for-kids",
+    "price": 67,
+    "description": ["100% Baumwolle", "Kinderbettwäsche-Set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "Baumwolle",
+    "category": "Kindertextilien",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "67",
+        "color": ["mehrfarbig"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000044776.webp"],
+    "productCode": 1000044776,
+    "subCategory": "for-kids",
+    "price": 32,
+    "description": ["100% Baumwolle", "Kinderbettwäsche-Set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "Baumwolle",
+    "category": "Kindertextilien",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "32",
+        "color": ["mehrfarbig"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "Mehrfarbig",
+    "lang": "de",
+    "image": ["/img/productsImageKids/1000039752.webp"],
+    "productCode": 1000039752,
+    "subCategory": "for-kids",
+    "price": 34,
+    "description": ["100% Baumwolle", "Kinderbettwäsche-Set"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "Baumwolle",
+    "category": "Kindertextilien",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "34",
+        "color": ["mehrfarbig"],
+        "availability": 0
+      }
+    }
+  }
+]

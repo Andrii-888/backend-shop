@@ -1,0 +1,340 @@
+[
+  {
+    "title": "CouleurBlanche",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000048459.webp"],
+    "productCode": 1000048459,
+    "subCategory": "for-hotels",
+    "price": 212,
+    "description": [
+      "100% Coton",
+      "Housse de couette : 200x220 cm",
+      "Drap : 240x260 cm",
+      "Taie d'oreiller volumineuse : 50x70 cm",
+      "Taie d'oreiller standard, 2 pcs : 50x70 cm",
+      "Housse, 2 pcs : 230x250 cm"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "212",
+        "color": ["blanc"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurBlanche",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000048456.webp"],
+    "productCode": 1000048456,
+    "subCategory": "for-hotels",
+    "price": 212,
+    "description": [
+      "100% Coton",
+      "Housse de couette : 200x220 cm",
+      "Drap : 240x260 cm",
+      "Taie d'oreiller volumineuse : 50x70 cm",
+      "Taie d'oreiller standard, 2 pcs : 50x70 cm",
+      "Housse, 2 pcs : 230x250 cm"
+    ],
+    "rating": { "rate": 4.6, "feedBackCount": 212 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "212",
+        "color": ["blanc"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurBlanche",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000048480.webp"],
+    "productCode": 1000048480,
+    "subCategory": "for-hotels",
+    "price": 186,
+    "description": [
+      "100% Coton",
+      "Housse de couette : 200x220 cm",
+      "Drap : 240x260 cm",
+      "Taie d'oreiller volumineuse : 50x70 cm",
+      "Taie d'oreiller standard, 2 pcs : 50x70 cm",
+      "Housse, 2 pcs : 230x250 cm"
+    ],
+    "rating": { "rate": 4.2, "feedBackCount": 186 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "186",
+        "color": ["blanc"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurBlanche",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000047223.webp"],
+    "productCode": 1000047223,
+    "subCategory": "for-hotels",
+    "price": 57,
+    "description": [
+      "100% Coton",
+      "Piqué : 180x250 cm",
+      "Inclus : 100x200 cm",
+      "Taie d'oreiller standard : 50x70 cm, 1 pc"
+    ],
+    "rating": { "rate": 4.2, "feedBackCount": 57 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "57",
+        "color": ["blanc"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurCrème",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000046186.webp"],
+    "productCode": 1000046186,
+    "subCategory": "for-hotels",
+    "price": 173,
+    "description": [
+      "100% Coton",
+      "Housse de couette en dentelle : 200x220 cm",
+      "Drap : 240x260 cm",
+      "Taie d'oreiller en dentelle : 50x70 cm, 2 pcs",
+      "Taie d'oreiller avec volants et bordure : 50x70 cm, 2 pcs"
+    ],
+    "rating": { "rate": 5, "feedBackCount": 173 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "173",
+        "color": ["crème"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurGris",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000046023.webp"],
+    "productCode": 1000046023,
+    "subCategory": "for-hotels",
+    "price": 75,
+    "description": [
+      "100% Coton",
+      "Housse de couette : 160x220 cm",
+      "Drap : 180x260 cm",
+      "Taie d'oreiller avec volants : 50x70 cm, 1 pc"
+    ],
+    "rating": { "rate": 4.4, "feedBackCount": 75 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "75",
+        "color": ["gris"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurBleu",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000045412004.webp"],
+    "productCode": 1000045412004,
+    "subCategory": "for-hotels",
+    "price": 105,
+    "description": [
+      "100% Coton",
+      "Housse de couette : 200x220 cm",
+      "Drap : 230x260 cm",
+      "Taie d'oreiller avec volants : 50x70 cm, 2 pcs"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 105 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "105",
+        "color": ["bleu"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurBrise",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000038751011.webp"],
+    "productCode": 1000038751011,
+    "subCategory": "for-hotels",
+    "price": 43,
+    "description": [
+      "100% Coton",
+      "Housse de couette : 160x220 cm",
+      "Drap : 180x260 cm",
+      "Taie d'oreiller avec cordon : 50x70 cm, 1 pc"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 43 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "43",
+        "color": ["brise"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurBlanche",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000039307002.webp"],
+    "productCode": 1000039307002,
+    "subCategory": "for-hotels",
+    "price": 110,
+    "description": [
+      "100% Coton",
+      "Housse de couette : 200x220 cm",
+      "Drap : 240x260 cm",
+      "Taies d'oreiller à rubans : 50x70 cm, 2 pcs",
+      "Taies d'oreiller à volants : 50x70 cm, 2 pcs"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 110 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "110",
+        "color": ["blanc"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurJaune",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000001135.webp"],
+    "productCode": 1000001135,
+    "subCategory": "for-hotels",
+    "price": 17,
+    "description": ["100% Coton", "Drap : PVC 240x260 cm"],
+    "rating": { "rate": 4.8, "feedBackCount": 17 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "17",
+        "color": ["jaune"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurBleu",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000047659.webp"],
+    "productCode": 1000047659,
+    "subCategory": "for-hotels",
+    "price": 63,
+    "description": [
+      "100% Coton",
+      "Housse de couette : 200x200 cm",
+      "Taies d'oreiller : 80x80 cm, 2 pcs"
+    ],
+    "rating": { "rate": 4.5, "feedBackCount": 63 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "63",
+        "color": ["bleu"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurBlanche",
+    "lang": "fr",
+    "image": ["/img/productsImageHotels/1000046902.webp"],
+    "productCode": 1000046902,
+    "subCategory": "for-hotels",
+    "price": 64,
+    "description": [
+      "100% Coton",
+      "Housse de couette : 200x220 cm",
+      "Drap de lit : 240x260 cm",
+      "Taies d'oreiller cordées : 50x70 cm, 2 pcs"
+    ],
+    "rating": { "rate": 4.1, "feedBackCount": 64 },
+    "material": "cotton",
+    "category": "Textiles pour Hôtels",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "64",
+        "color": ["blanc"],
+        "availability": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "title": "BluColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000047734.webp"],
+    "productCode": 1000047734,
+    "subCategory": "for-home",
+    "price": 320,
+    "description": [
+      "100% cotone",
+      "Lenzuolo: 240x260 cm",
+      "Federe standard: 50x70 cm 2 pezzi",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "MarroneColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000046633.webp"],
+    "productCode": 1000046633,
+    "subCategory": "for-home",
+    "price": 230,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 200X220 cm",
+      "Lenzuolo: 240X260 cm",
+      "2 federe: 40X40 cm"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["Brown"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "BluColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000046639.webp"],
+    "productCode": 1000046639,
+    "subCategory": "for-home",
+    "price": 240,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 200X220 cm",
+      "Lenzuolo: 240X260 cm",
+      "Federa standard: 50X70 cm",
+      "2 federe: 40X40 cm",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "NeroColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000047667.webp"],
+    "productCode": 1000047667,
+    "subCategory": "for-home",
+    "price": 215,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 240x220 cm",
+      "Federe: 60x70 cm 2 pezzi",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["black"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "AntraciteColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000046844.webp"],
+    "productCode": 1000046844,
+    "subCategory": "for-home",
+    "price": 135,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 160x220 cm",
+      "Lenzuolo: 180x260 cm",
+      "Federa: 50x70 cm",
+      "Federa: 50x70 cm 1 pezzo",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["pink", "grey", "navy blue", "black"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "VerdeColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000047752.webp"],
+    "productCode": 1000047752,
+    "subCategory": "for-home",
+    "price": 200,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 230x260 cm",
+      "Federa: 50x70 cm",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["green"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "GrigioColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000048138.webp"],
+    "productCode": 1000048138,
+    "subCategory": "for-home",
+    "price": 180,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 240x260 cm",
+      "Federe standard: 50x70 cm 2 pezzi",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["grey"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "BluColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000047753.webp"],
+    "productCode": 1000047753,
+    "subCategory": "for-home",
+    "price": 120,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 230x260 cm",
+      "Federa: 50x70 cm",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CremaColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000047537.webp"],
+    "productCode": 1000047537,
+    "subCategory": "for-home",
+    "price": 270,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 200x220 cm",
+      "Lenzuolo: 230x260 cm",
+      "Federa: 50x70 cm",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["cream"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "GrigioColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000046226.webp"],
+    "productCode": 1000046226,
+    "subCategory": "for-home",
+    "price": 150,
+    "description": [
+      "100% cotone",
+      "Lenzuolo: 240X260 cm",
+      "Piumino: 195X215 cm Federe standard: 50X70 cm 2 pezzi con imbottitura",
+      "Federa: 50X70 cm 2 pezzi",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["grey"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CremaColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000000073.webp"],
+    "productCode": 1000000073,
+    "subCategory": "for-home",
+    "price": 385,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 160X220 cm",
+      "Tipo di prodotto: Piumoni",
+      "Federa con bordino di velluto a coste: 50X70 cm",
+      "Federa: 50X70 cm 2 pezzi",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Singolo",
+        "price": "150",
+        "color": ["grey"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "BluColore",
+    "lang": "it",
+    "image": ["/img/productsImage/1000046628.jpeg"],
+    "productCode": 1000046628,
+    "subCategory": "for-home",
+    "price": 380,
+    "description": [
+      "100% cotone",
+      "Copripiumino: 200X220 cm",
+      "Lenzuolo: 240X260 cm",
+      "Federa standard: 50X70 cm 2 pezzi con tasche: 40X40 cm",
+      "Tipo di prodotto: Completi letto"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Doppio",
+        "price": "150",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  }
+]

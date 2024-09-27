@@ -1,0 +1,312 @@
+[
+  {
+    "title": "CouleurCrème",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500214895.webp"],
+    "productCode": 1500214895,
+    "subCategory": "for-bathroom",
+    "price": 20,
+    "description": [
+      "100% Coton",
+      "Serviette de bain : 90x150 cm, 1 pc",
+      "90x150 cm, dans un sac PP"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 20 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "20",
+        "color": ["crème"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurPoudre",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500214754.webp"],
+    "productCode": 1500214754,
+    "subCategory": "for-bathroom",
+    "price": 27,
+    "description": [
+      "100% Coton",
+      "Ensemble de tapis 60x100 cm 1 pc",
+      "50x60 cm 1 pc"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 27 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "27",
+        "color": ["poudre"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurCiel",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500217928.webp"],
+    "productCode": 1500217928,
+    "subCategory": "for-bathroom",
+    "price": 148,
+    "description": [
+      "100% Coton",
+      "Ensemble familial",
+      "Peignoir pour homme",
+      "Peignoir pour femme",
+      "Serviettes de bain, ensemble de 4"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "148",
+        "color": ["ciel"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurAnthracite",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500214900.webp"],
+    "productCode": 1500214900,
+    "subCategory": "for-bathroom",
+    "price": 57,
+    "description": [
+      "100% Coton",
+      "Peignoir pour femme",
+      "Serviettes de bain, ensemble de 2"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "57",
+        "color": ["anthracite"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurRose",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500214900.webp"],
+    "productCode": 1500214900,
+    "subCategory": "for-bathroom",
+    "price": 57,
+    "description": [
+      "100% Coton",
+      "Peignoir pour femme",
+      "Serviettes de bain, ensemble de 2"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "57",
+        "color": ["anthracite"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurAnthracite",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500217925002.webp"],
+    "productCode": 1500217925002,
+    "subCategory": "for-bathroom",
+    "price": 148,
+    "description": [
+      "100% Coton",
+      "Ensemble familial",
+      "Peignoir pour homme",
+      "Peignoir pour femme",
+      "Serviettes de bain, ensemble de 4"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "148",
+        "color": ["ciel"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurMulticolore",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500217912002.webp"],
+    "productCode": 1500217912002,
+    "subCategory": "for-bathroom",
+    "price": 48,
+    "description": ["100% Coton", "Peignoir pour femme"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "48",
+        "color": ["multicolore"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurMenthe",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500217912002.webp"],
+    "productCode": 1500217912002,
+    "subCategory": "for-bathroom",
+    "price": 48,
+    "description": ["100% Coton", "Peignoir pour femme"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "48",
+        "color": ["menthe"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurLavande",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500201668001.webp"],
+    "productCode": 1500201668001,
+    "subCategory": "for-bathroom",
+    "price": 130,
+    "description": [
+      "100% Coton",
+      "Ensemble familial",
+      "Peignoir pour homme",
+      "Peignoir pour femme",
+      "Serviettes de bain, ensemble de 4"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "130",
+        "color": ["lavande"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurGris",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500215665.webp"],
+    "productCode": 1500215665,
+    "subCategory": "for-bathroom",
+    "price": 50,
+    "description": ["100% Coton", "Peignoir pour femme"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "50",
+        "color": ["menthe"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurMulticolore",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500216663.webp"],
+    "productCode": 1500216663,
+    "subCategory": "for-bathroom",
+    "price": 43,
+    "description": ["100% Coton", "Peignoir pour femme"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "43",
+        "color": ["multicolore"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CouleurCrème",
+    "lang": "fr",
+    "image": ["/img/productsImageBathroom/1500215673.webp"],
+    "productCode": 1500215673,
+    "subCategory": "for-bathroom",
+    "price": 107,
+    "description": ["100% Coton", "Peignoir pour femme"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Textile de salle de bain",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "simple",
+        "title": "Simple",
+        "price": "43",
+        "color": ["multicolore"],
+        "availability": 0
+      }
+    }
+  }
+]

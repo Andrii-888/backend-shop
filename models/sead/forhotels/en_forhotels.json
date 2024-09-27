@@ -1,0 +1,340 @@
+[
+  {
+    "title": "WhiteColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000048459.webp"],
+    "productCode": 1000048459,
+    "subCategory": "for-hotels",
+    "price": 212,
+    "description": [
+      "100% Cotton",
+      "Duvet cover: 200x220 cm",
+      "Sheet: 240x260 cm",
+      "Vol. Pillowcase: 50x70 cm",
+      "Standard pillowcase, 2 pcs: 50x70 cm",
+      "Cover, 2 pcs.: 230x250 cm"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "212",
+        "color": ["white"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "WhiteColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000048456.webp"],
+    "productCode": 1000048456,
+    "subCategory": "for-hotels",
+    "price": 212,
+    "description": [
+      "100% Cotton",
+      "Duvet cover: 200x220 cm",
+      "Sheet: 240x260 cm",
+      "Vol. Pillowcase: 50x70 cm",
+      "Standard pillowcase, 2 pcs: 50x70 cm",
+      "Cover, 2 pcs.: 230x250 cm"
+    ],
+    "rating": { "rate": 4.6, "feedBackCount": 212 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "212",
+        "color": ["white"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "WhiteColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000048480.webp"],
+    "productCode": 1000048480,
+    "subCategory": "for-hotels",
+    "price": 186,
+    "description": [
+      "100% Cotton",
+      "Duvet cover: 200x220 cm",
+      "Sheet: 240x260 cm",
+      "Vol. Pillowcase: 50x70 cm",
+      "Standard pillowcase, 2 pcs: 50x70 cm",
+      "Cover, 2 pcs.: 230x250 cm"
+    ],
+    "rating": { "rate": 4.2, "feedBackCount": 186 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "186",
+        "color": ["white"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "WhiteColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000047223.webp"],
+    "productCode": 1000047223,
+    "subCategory": "for-hotels",
+    "price": 57,
+    "description": [
+      "100% Cotton",
+      "Pique: 180x250 cm",
+      "Included: 100x200 cm",
+      "Standard pillowcase: 50x70 cm, 1 pc"
+    ],
+    "rating": { "rate": 4.2, "feedBackCount": 57 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "57",
+        "color": ["white"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CreamColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000046186.webp"],
+    "productCode": 1000046186,
+    "subCategory": "for-hotels",
+    "price": 173,
+    "description": [
+      "100% Cotton",
+      "Lace duvet cover: 200x220 cm",
+      "Sheet: 240x260 cm",
+      "Lace pillowcase: 50x70 cm, 2 pcs",
+      "Pillowcase with frill and trim: 50x70 cm, 2 pcs"
+    ],
+    "rating": { "rate": 5, "feedBackCount": 173 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "173",
+        "color": ["white"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "GrayColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000046023.webp"],
+    "productCode": 1000046023,
+    "subCategory": "for-hotels",
+    "price": 75,
+    "description": [
+      "100% Cotton",
+      "Duvet cover: 160x220 cm",
+      "Sheet: 180x260 cm",
+      "Pillowcase with frills: 50x70 cm, 1 pc"
+    ],
+    "rating": { "rate": 4.4, "feedBackCount": 75 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "75",
+        "color": ["gray"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "BlueColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000045412004.webp"],
+    "productCode": 1000045412004,
+    "subCategory": "for-hotels",
+    "price": 105,
+    "description": [
+      "100% Cotton",
+      "Duvet cover: 200x220 cm",
+      "Sheet: 230x260 cm",
+      "Pillowcase with frills: 50x70 cm, 2 pcs."
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 105 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "105",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "BreezeColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000038751011.webp"],
+    "productCode": 1000038751011,
+    "subCategory": "for-hotels",
+    "price": 43,
+    "description": [
+      "100% Cotton",
+      "Duvet Cover: 160x220 cm",
+      "Sheet: 180x260 cm",
+      "Corded Pillowcase: 50x70 cm. 1 pc"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 43 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "43",
+        "color": ["breeze"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "WhiteColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000039307002.webp"],
+    "productCode": 1000039307002,
+    "subCategory": "for-hotels",
+    "price": 110,
+    "description": [
+      "100% Cotton",
+      "Duvet Cover: 200x220 cm",
+      "Sheet: 240x260 cm",
+      "Ribbon pillowcases: 50x70 cm, 2 pcs",
+      "Ruffled pillowcases: 50x70 cm, 2 pcs"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 110 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "110",
+        "color": ["white"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "YellowColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000001135.webp"],
+    "productCode": 1000001135,
+    "subCategory": "for-hotels",
+    "price": 17,
+    "description": ["100% Cotton", "Sheet: PVC 240x260 cm"],
+    "rating": { "rate": 4.8, "feedBackCount": 17 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "17",
+        "color": ["yellow"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "BlueColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000047659.webp"],
+    "productCode": 1000047659,
+    "subCategory": "for-hotels",
+    "price": 63,
+    "description": [
+      "100% Cotton",
+      "Duvet cover: 200x200 cm",
+      "Pillowcase: 80x80 cm, 2 pcs"
+    ],
+    "rating": { "rate": 4.5, "feedBackCount": 63 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "63",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "WhiteColor",
+    "lang": "en",
+    "image": ["/img/productsImageHotels/1000046902.webp"],
+    "productCode": 1000046902,
+    "subCategory": "for-hotels",
+    "price": 64,
+    "description": [
+      "100% Cotton",
+      "Duvet cover: 200x220 cm",
+      "Bed sheet: 240x260 cm",
+      "Cord pillowcase: 50x70 cm, 2 pcs"
+    ],
+    "rating": { "rate": 4.1, "feedBackCount": 64 },
+    "material": "cotton",
+    "category": "Hotels textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "64",
+        "color": ["white"],
+        "availability": 0
+      }
+    }
+  }
+]

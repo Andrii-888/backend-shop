@@ -19,7 +19,13 @@ app.use(bodyParser.json());
 app.use(cookieParser());
 app.use(express.json());
 // app.use(cors());
-app.use(cors({ origin: "http://localhost:3000", credentials: true }));
+app.use(
+  cors({
+    origin: "https://lovely-selkie-5e8f04.netlify.app/ru",
+    credentials: true,
+  })
+);
+// app.use(cors({ origin: "http://localhost:3000", credentials: true }));
 app.use(morgan("tiny"));
 app.use(routes);
 

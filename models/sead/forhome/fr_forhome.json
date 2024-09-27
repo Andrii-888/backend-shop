@@ -1,0 +1,350 @@
+[
+  {
+    "title": "BleueCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000047734.webp"],
+    "productCode": 1000047734,
+    "subCategory": "for-home",
+    "price": 320,
+    "description": [
+      "100% coton",
+      "Drap de lit : 240x260 cm",
+      "Taie d'oreiller standard : 50x70 cm 2 pièces",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "MarronCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000046633.webp"],
+    "productCode": 1000046633,
+    "subCategory": "for-home",
+    "price": 230,
+    "description": [
+      "100% coton",
+      "Housse de couette : 200X220 cm",
+      "Drap de lit : 240X260 cm",
+      "2 taies d'oreiller : 40X40 cm"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["Brown"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "BleueCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000046639.webp"],
+    "productCode": 1000046639,
+    "subCategory": "for-home",
+    "price": 240,
+    "description": [
+      "100% coton",
+      "Housse de couette : 200X220 cm",
+      "Drap de lit : 240X260 cm",
+      "Taie d'oreiller standard : 50X70 cm",
+      "2 taies d'oreiller : 40X40 cm",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "NoireCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000047667.webp"],
+    "productCode": 1000047667,
+    "subCategory": "for-home",
+    "price": 215,
+    "description": [
+      "100% coton",
+      "Housse de couette : 240x220 cm",
+      "Taies d'oreiller : 60x70 cm 2 pièces",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["black"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "AnthraciteCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000046844.webp"],
+    "productCode": 1000046844,
+    "subCategory": "for-home",
+    "price": 135,
+    "description": [
+      "100% coton",
+      "Housse de couette : 160x220 cm",
+      "Drap de lit : 180x260 cm",
+      "Taie d'oreiller : 50x70 cm",
+      "Taie d'oreiller : 50x70 cm 1 pièce",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["pink", "grey", "navy blue", "black"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "VerteCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000047752.webp"],
+    "productCode": 1000047752,
+    "subCategory": "for-home",
+    "price": 200,
+    "description": [
+      "100% coton",
+      "Housse de couette : 200x220 cm",
+      "Drap de lit : 230x260 cm",
+      "Taie d'oreiller : 50x70 cm",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["green"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "GriseCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000048138.webp"],
+    "productCode": 1000048138,
+    "subCategory": "for-home",
+    "price": 180,
+    "description": [
+      "100% coton",
+      "Housse de couette : 200x220 cm",
+      "Drap de lit : 240x260 cm",
+      "Taies d'oreiller standard : 50x70 cm 2 pièces",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["grey"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "BleueCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000047753.webp"],
+    "productCode": 1000047753,
+    "subCategory": "for-home",
+    "price": 120,
+    "description": [
+      "100% coton",
+      "Housse de couette : 200x220 cm",
+      "Drap de lit : 230x260 cm",
+      "Taie d'oreiller : 50x70 cm",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CrèmeCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000047537.webp"],
+    "productCode": 1000047537,
+    "subCategory": "for-home",
+    "price": 270,
+    "description": [
+      "100% coton",
+      "Housse de couette : 200x220 cm",
+      "Drap de lit : 230x260 cm",
+      "Taie d'oreiller : 50x70 cm",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["cream"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "GriseCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000046226.webp"],
+    "productCode": 1000046226,
+    "subCategory": "for-home",
+    "price": 150,
+    "description": [
+      "100% coton",
+      "Drap de lit : 240X260 cm",
+      "Couette : 195X215 cm Taies d'oreiller standard : 50X70 cm 2 pièces avec rembourrage",
+      "Taie d'oreiller : 50X70 cm 2 pièces",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["grey"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "CrèmeCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000000073.webp"],
+    "productCode": 1000000073,
+    "subCategory": "for-home",
+    "price": 385,
+    "description": [
+      "100% coton",
+      "Housse de couette : 160X220 cm",
+      "Type de produit : Couettes",
+      "Taie d'oreiller avec passepoil en velours côtelé : 50X70 cm",
+      "Taie d'oreiller : 50X70 cm 2 pièces",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "150",
+        "color": ["grey"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "BleueCouleur",
+    "lang": "fr",
+    "image": ["/img/productsImage/1000046628.jpeg"],
+    "productCode": 1000046628,
+    "subCategory": "for-home",
+    "price": 380,
+    "description": [
+      "100% coton",
+      "Housse de couette : 200X220 cm",
+      "Drap de lit : 240X260 cm",
+      "Taie d'oreiller standard : 50X70 cm 2 pièces avec poches à rabat : 40X40 cm",
+      "Type de produit : Ensembles de literie"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 300 },
+    "material": "cotton",
+    "category": "Home textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "150",
+        "color": ["blue"],
+        "availability": 0
+      }
+    }
+  }
+]

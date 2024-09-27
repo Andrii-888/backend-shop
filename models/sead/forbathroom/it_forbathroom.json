@@ -1,0 +1,312 @@
+[
+  {
+    "title": "ColoreCrema",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500214895.webp"],
+    "productCode": 1500214895,
+    "subCategory": "for-bathroom",
+    "price": 20,
+    "description": [
+      "100% Cotton",
+      "Asciugamano: 90x150 cm, 1 pz",
+      "90x150 cm, in una busta PP"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 20 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "20",
+        "color": ["cream"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColorePolvere",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500214754.webp"],
+    "productCode": 1500214754,
+    "subCategory": "for-bathroom",
+    "price": 27,
+    "description": [
+      "100% Cotton",
+      "Set di tappeti 60x100 cm 1 pz",
+      "50x60 cm 1 pz"
+    ],
+    "rating": { "rate": 4.3, "feedBackCount": 27 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "27",
+        "color": ["powder"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreCielo",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500217928.webp"],
+    "productCode": 1500217928,
+    "subCategory": "for-bathroom",
+    "price": 148,
+    "description": [
+      "100% Cotton",
+      "Set famiglia",
+      "Accappatoio per uomo",
+      "Accappatoio per donna",
+      "Asciugamani, set di 4"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "148",
+        "color": ["sky"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreAntracite",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500214900.webp"],
+    "productCode": 1500214900,
+    "subCategory": "for-bathroom",
+    "price": 57,
+    "description": [
+      "100% Cotton",
+      "Accappatoio per donna",
+      "Asciugamani, set di 2"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "57",
+        "color": ["anthracite"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreRosa",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500214900.webp"],
+    "productCode": 1500214900,
+    "subCategory": "for-bathroom",
+    "price": 57,
+    "description": [
+      "100% Cotton",
+      "Accappatoio per donna",
+      "Asciugamani, set di 2"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "57",
+        "color": ["anthracite"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreAntracite",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500217925002.webp"],
+    "productCode": 1500217925002,
+    "subCategory": "for-bathroom",
+    "price": 148,
+    "description": [
+      "100% Cotton",
+      "Set famiglia",
+      "Accappatoio per uomo",
+      "Accappatoio per donna",
+      "Asciugamani, set di 4"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "148",
+        "color": ["sky"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreMulticolore",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500217912002.webp"],
+    "productCode": 1500217912002,
+    "subCategory": "for-bathroom",
+    "price": 48,
+    "description": ["100% Cotton", "Accappatoio per donna"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "48",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreMenta",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500217912002.webp"],
+    "productCode": 1500217912002,
+    "subCategory": "for-bathroom",
+    "price": 48,
+    "description": ["100% Cotton", "Accappatoio per donna"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "48",
+        "color": ["mint"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreLavanda",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500201668001.webp"],
+    "productCode": 1500201668001,
+    "subCategory": "for-bathroom",
+    "price": 130,
+    "description": [
+      "100% Cotton",
+      "Set famiglia",
+      "Accappatoio per uomo",
+      "Accappatoio per donna",
+      "Asciugamani, set di 4"
+    ],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["double"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "double",
+        "title": "Double",
+        "price": "130",
+        "color": ["lavender"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreGrigio",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500215665.webp"],
+    "productCode": 1500215665,
+    "subCategory": "for-bathroom",
+    "price": 50,
+    "description": ["100% Cotton", "Accappatoio per donna"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "50",
+        "color": ["mint"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreMulticolore",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500216663.webp"],
+    "productCode": 1500216663,
+    "subCategory": "for-bathroom",
+    "price": 43,
+    "description": ["100% Cotton", "Accappatoio per donna"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "43",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  },
+  {
+    "title": "ColoreCrema",
+    "lang": "it",
+    "image": ["/img/productsImageBathroom/1500215673.webp"],
+    "productCode": 1500215673,
+    "subCategory": "for-bathroom",
+    "price": 107,
+    "description": ["100% Cotton", "Accappatoio per donna"],
+    "rating": { "rate": 4.8, "feedBackCount": 148 },
+    "material": "cotton",
+    "category": "Bathroom textile",
+    "availabileSize": ["single"],
+    "isFavorite": false,
+    "sizes": {
+      "double": {
+        "size": "single",
+        "title": "Single",
+        "price": "43",
+        "color": ["multicolor"],
+        "availability": 0
+      }
+    }
+  }
+]
