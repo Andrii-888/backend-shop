@@ -22,13 +22,11 @@ router.get("/", async (request, response) => {
     };
 
     if (category) {
-     
       const categoryRegex = new RegExp(category, "i");
       filter.subCategory = { $regex: categoryRegex };
     }
-    
+
     const products = await db.Product.find(filter);
-   
 
     // if (lang !== "en") {
     //   const productsForTranslation = await Promise.all(
@@ -118,7 +116,7 @@ router.get("/", async (request, response) => {
 
     //   return;
     // }
-
+    
     response.json(products);
   } catch (error) {
     response.status(500).json({ message: error.message });

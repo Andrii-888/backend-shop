@@ -33,6 +33,7 @@ async function seedData() {
   try {
     await client.connect();
     const database = client.db("shop-internet-main-db-08025b90a17"); // Замените на имя вашей базы данных
+    // const database = client.db("shop"); 
     const collection = database.collection("products"); // Замените на имя коллекции
 
     const deleted = await collection.deleteMany({});
