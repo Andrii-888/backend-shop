@@ -118,9 +118,9 @@ app.use(routes);
 //   return Math.random().toString(36).substring(2, 15);
 // }
 
-// app.listen(PORT, function () {
-//   console.log(`app listen on port ${PORT}`);
-// });
+app.get("/", (req, res) => {
+  res.send("Hello, world!");
+});
 
 // Засев данных в базу перед началом работы сервера
 // seedData().then(() => {
