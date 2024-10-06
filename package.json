@@ -2,10 +2,10 @@
   "name": "backend-shop",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run seed && node server.js",
+    "start": "npm run seed && node index.js",
     "dev": "npx nodemon",
     "seed": "node ./models/sead/sead.js"
   },
