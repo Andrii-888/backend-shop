@@ -1,0 +1,19 @@
+app = "app-holy-shape-955"  # Имя твоего приложения
+
+primary_region = "iad"  # Основной регион деплоя
+
+[env]
+PORT = "8080"  # Переменные окружения
+
+[http_service]
+auto_start_machines = true
+auto_stop_machines = true
+force_https = true
+internal_port = 8080  # Внутренний порт для приложения
+min_machines_running = 0
+processes = [ "app" ]
+
+[[vm]]
+cpu_kind = "shared"  # Тип CPU
+cpus = 1  # Количество CPU
+memory = "1gb"  # Количество памяти
